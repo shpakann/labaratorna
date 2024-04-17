@@ -3,7 +3,7 @@ package military.machinery;
 
 public class Engine {
 
-    private int horsepower; 
+    private int horsepower;
     private String fuelType;
 
     public Engine(int horsepower, String fuelType) {

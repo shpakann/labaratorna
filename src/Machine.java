@@ -13,9 +13,4 @@ public class Machine {
     public String getName() {
         return name;
     }
-
-    public void displayInfo() {
-        System.out.println("Machine Name: " + name);
-        System.out.println("Engine Specs: " + engine.getSpecs());
-    }
 }

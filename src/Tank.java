@@ -9,14 +9,6 @@ public class Tank extends military.machinery.Machine {
         this.armorThickness = armorThickness;
     }
 
-//    public void fireMainGun() {
-//        System.out.println(getName() + " fires its main gun!");
-//    }
-
-//    public void fireMainGun(int shellType) {
-//        System.out.println(getName() + " fires its main gun with shell type: " + shellType);
-//    }
-
     @Override
     public void displayInfo() {
         super.displayInfo();
